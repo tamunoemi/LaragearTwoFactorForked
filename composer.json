@@ -32,7 +32,6 @@
         "illuminate/config": "9.*|10.*",
         "illuminate/validation": "9.*|10.*",
         "illuminate/database": "9.*|10.*",
-        "illuminate/support": "9.*|10.*",
         "illuminate/http": "9.*|10.*",
         "illuminate/auth": "9.*|10.*"
     },
